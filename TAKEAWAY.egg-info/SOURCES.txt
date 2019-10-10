@@ -1,6 +1,0 @@
-README.md
-setup.py
-TAKEAWAY.egg-info/PKG-INFO
-TAKEAWAY.egg-info/SOURCES.txt
-TAKEAWAY.egg-info/dependency_links.txt
-TAKEAWAY.egg-info/top_level.txt
